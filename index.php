@@ -32,6 +32,9 @@
         echo "soy $nombre, y tengo $edad"; 
         ?>
     </h1>
+    <section>
+        <h2>Se actualizo el repositorio</h2>
+    </section>
 
 </body>
 </html>
