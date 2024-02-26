@@ -28,7 +28,7 @@
 </body>
 <body>
 <?php
-$c5= "hola desde c5";
+$c5= "conectados desde c5";
 echo "$c5";
 ?>
 </body>
