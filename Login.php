@@ -6,6 +6,7 @@
     <title>Document</title>
 </head>
 <body>
+
     <h2>INICIAR SESION</h2>
     <form action="login.php" method="post">
         <label for="user">nombre de usuario:</label>
@@ -23,5 +24,12 @@
     <h2>
         C5
     </h2>
+
+</body>
+<body>
+<?php
+$c5= "hola desde c5";
+echo "$c5";
+?>
 </body>
 </html>
