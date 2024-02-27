@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="Es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Inicio de sesion</title>
 </head>
 <body>
 
@@ -16,20 +16,8 @@
         <input type="password" name="contrasena" required>
         <br>
         <input type="submit" value="Iniciar sesion:">
-
     </form>
-    <h1>
-        Descarga remota lista actualizacion lista
-    </h1>
-    <h2>
-        C5
-    </h2>
-
 </body>
 <body>
-<?php
-$c5= "Prueba 3";
-echo "$c5";
-?>
 </body>
 </html>
