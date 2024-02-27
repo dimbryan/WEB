@@ -13,7 +13,7 @@
         <input type="text" name="user" required>
         <br>
         <label for="contrasena">Contraseña</label>
-        <input type="password" name="contrasena" required>
+        <input type="password" name="contrasena" required autocomplete="off">
         <br>
         <input type="submit" value="Iniciar sesion:">
     </form>
