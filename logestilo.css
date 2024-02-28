@@ -37,15 +37,21 @@ input{
     border: 1px solid #ccc;
 }
 
-input[type="sumbit"] {
+input[type="submit"] {
     background-color: #4caf50;
     color: white;
     cursor: pointer;
     padding: 10px;
     border: none;
     border-radius: 4px;
+    transition: background-color 0.3s ease;
 
 }
-input[type="sumbit"]:hover{
-    background-color:45a049;
+
+input[type="submit"]:hover{
+    background-color:#45a049;
+}
+
+input[type="submit"]:active{
+    background-color: #3e8e41;
 }

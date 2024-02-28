@@ -16,7 +16,7 @@
         <label for="contrasena">Contraseña</label>
         <input type="password" name="contrasena" required autocomplete="off">
         <br>
-        <input type="submit" value="Iniciar sesion:">
+        <input type="submit" value="Iniciar sesion">
     </form>
 </body>
 <body>
